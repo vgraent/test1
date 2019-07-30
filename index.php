@@ -1,7 +1,7 @@
 <?php 
 $author = "Scott Adams";
 
- echo ' <h1> Boss</h1>';
+ echo ' <h1> TEST</h1>';
  echo "$author";
  for ($count= 1; $count <10; $count++)
  {
@@ -30,6 +30,6 @@ function tet ($a)
  }
  echo "<br>";
  ///
-
+  
    require_once 'test.php';
  
